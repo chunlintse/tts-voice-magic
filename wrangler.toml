@@ -11,7 +11,7 @@ name = "tts-voice-magic-staging"
 
 # 变量配置（如果需要的话）
 [vars]
-ACCESS_PASSWORD = "178173337"
+# ACCESS_PASSWORD = ""
 
 # 如果需要 KV 存储（可选）
 # [[kv_namespaces]]
